@@ -21,7 +21,7 @@ IoT
 
 ### Co-corriculum Activities:-
 
-In my free time I love to solve problems based on data structures. I have a good grasp of Data Structures and ALgorithm .      
+In my free time I love to solve problems based on data structures. I have a good grasp of Data Structures and Algorithms .      
 
 HackerRank 5 Star in Python , C++  
 Leetcode - Solved over 300 questions   || Rank - 174,819
