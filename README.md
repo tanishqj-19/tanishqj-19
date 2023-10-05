@@ -21,7 +21,7 @@ I'm passionate about Machine Learning and Data Science. With the development of 
 
 # LeetCode Stats:
 [![LeetCode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/tanishq0_0/)
-![image](https://github.com/tanishqj-19/tanishqj-19/assets/92851477/ce8d56f9-6243-4c0b-9194-439ab27620e8)
+
 
 
 
