@@ -5,7 +5,7 @@ I'm passionate about Machine Learning and Data Science. With the development of 
 
 
 ## 🌐 Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://img.shields.io/badge/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-zeta-seven-20.vercel.app/)
 
 
 # 💻 Tech Stack:
