@@ -1,7 +1,7 @@
  <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Tanishq Jain 👋</h1>
 
 # 💫 About Me:
-I'm passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data really pushes the field of Data Science and Machine Learning to a whole new level.
+Driven by a strong passion for creating groundbreaking web applications and exploring the intricacies of AI development, I consistently strive to push my limits and remain at the cutting edge of technology. Simultaneously, my commitment to refining my expertise in Data Structures and Algorithms underscores my unwavering thirst for knowledge and personal development.
 
 
 ## 🌐 Portfolio:
